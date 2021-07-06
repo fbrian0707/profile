@@ -46,7 +46,7 @@ var projects = {
     'imageUrl': 'img/bliss.jpg',
     'title': 'Bliss Italian Resturant',
     'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>SASS</span><span>JQuery</span><span>Bootstrap 3</span>',
-    'url': 'URL: <a href="https://brifanbelly.github.io/bliss_resturant/" target="_blank">https://brifanbelly.github.io/bliss_resturant/</a>',
+    'url': 'URL: <a href="https://fbrian0707.github.io/tasteless/" target="_blank">https://fbrian0707.github.io/tasteless/</a>',
     'work': `<li>Convert .psd photoshop files into html files</li>
              <li><i>contribute to design and solve design issues, prototyping</i></li>
              <li>create form validation and also integrate goolge maps api</li>
@@ -57,13 +57,13 @@ var projects = {
               It allows customers to view special item of the day, check for availability and book a spot, also there is a contact form and comments sections where customers can rate the restaurant. 
               </p><p>Major part of the work done was in prototyping and the design was changed several times. There was also some PhP involved. 
               It also has a mail service which sends back messages to the respective authority.<i>`,
-    'source': '<a href="https://github.com/BrifanBelly/bliss">https://github.com/BrifanBelly/bliss</a>'
+    'source': '<a href="https://github.com/fbrian0707/tasteless">https://github.com/fbrian0707/tasteless</a>'
   },
   'movies':{
     'imageUrl': 'img/movies.jpg',
     'title': 'Latest Movies',
     'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>SASS</span><span>twitter bootstrap</span><span>Angular.js</span><span>Restfull APIs</span>',
-    'url': 'URL: <a href="https://shrouded-tor-56171.herokuapp.com/" target="_blank">https://shrouded-tor-56171.herokuapp.com/</a>',
+    'url': 'URL: <a href="https://fbrian0707.github.io/movies_api/" target="_blank">https://fbrian0707.github.io/movies_api/</a>',
     'about': `<h3>About</h3><i>Web application for consuming a movies <b>Restfull API</b>.
     It allows users to view top rated movies of the month, check the  movie ratings and also view the trailer of the movie, the application is made in angular.js framework and updates in real time.
     Major part of the work done was in registering and getting the api key also wrote a angular service to automatically get the key and use it forever. </p><p>
@@ -73,11 +73,11 @@ var projects = {
              <li>Angular <b>Form validation</b> and also integrate goolge maps api</li>
              <li><i>Query Api and get data using http service</i></li>
              <li>wrote vanila javascript, optimized browser randering speed</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/Movie_api">https://github.com/BrifanBelly/Movie_api</a>'
+    'source': '<a href="https://github.com/fbrian0707/movies_api">https://github.com/fbrian0707/movies_api</a>'
   },
   'traker':{
     'imageUrl': 'img/traker.jpg',
-    'title': 'E-traker',
+    'title': 'Fitness-Traker',
     'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>MapBox</span><span>Leaflet</span><span>Geo.json</span><span>Restfull APIs</span>',
     'url': 'URL: <a href="https://e-traker.firebaseapp.com/" target="_blank">https://e-traker.firebaseapp.com/</a>',
     'about': `<h3>About</h3><i>Web application for tracking user Movements.
@@ -89,7 +89,7 @@ var projects = {
              <li>Angular <b>Form validation</b> and also integrate goolge maps api</li>
              <li><i>work with <b>GPx data</b> and convert it into geo.json format</i></li>
              <li>wrote vanila javascript, optimized browser randering speed</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/e-traker">https://github.com/BrifanBelly/e-traker</a>'
+    'source': '<a href="https://github.com/fbrian0707/fitness-tracker">https://github.com/fbrian0707/fitness-tracker</a>'
   },
   'shop':{
     'imageUrl': 'img/o-shop.jpg',
@@ -107,58 +107,7 @@ var projects = {
              <li><i>used <b>Bearer token</b> Authentication</i></li>
              <li>used http service to query the server</li>
              <li>Used <b>bootstrap 4</b> for css and grid system</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/shop-angular4-">https://github.com/BrifanBelly/shop-angular4-</a>'
-  },
-  'acme': {
-    'imageUrl': 'img/acme.jpg',
-    'title': 'Acme |A website with 7:1 SASS structure',
-    'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>Flex box</span><span>Github Pages</span><span>BEM naming convention</span><span>Webpack</span>',
-    'url': 'URL: <a href="https://brifanbelly.github.io/acme/" target="_blank">https://brifanbelly.github.io/acme/</a>',
-    
-    'work': `<li>Configuration and initial setup of the project and config <b>Webpack</b></li>
-             <li><i>Use the <b>Bem naming</b> convention for nameing css class and properly structure the code</i></li>
-             <li>solving issues with webpack configuration due to different versions of npm packages</li>
-             <li><i>Used 7:1 <b>SASS</b> Architecture and changed my previous ways of file systems  </i></li>
-             <li>optimized browser randering speed</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/Acme-website">https://github.com/BrifanBelly/Acme-website</a>'
-  },
-  'd3': {
-    'imageUrl': 'img/d3.jpg',
-    'title': 'D3 | Bubble chart data visualization',
-    'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>Flex box</span><span>Github Pages</span><span>D3</span><span>Webpack</span><span>bable</span><span>csv</span><span>Svg</span>',
-    'url': 'URL: <a href="https://brifanbelly.github.io/d3_cars_bubble_v4" target="_blank">https://brifanbelly.github.io/d3_cars_bubble_v4</a>',
-    'about': `<h3>About</h3><i>A data visualization application used to sort data. 
-             I made this to represent a larger application i was working with and for testing and debugging.
-              The users can view data. The chart represents 5 Dimensions.
-              There is also a filter that can filter data as per the user query.</p>
-              <p> it uses D3 force layouts and a lot of work has been done to get the magnitude of forces right,
-               the animations are not css but javascript and uses d3 library to visualize them.
-              also worked with svg graphics and all its cool effects.</i>`,
-    'work': `<li>Configuration and initial setup of the project and config <b>Webpack</b></li>
-             <li><i>Use D3 library to get and visualize data</i></li>
-             <li>solving issues with webpack configuration due to different versions of npm packages</li>
-             <li><i>Migrating changes from D3 version 3 to version 4 </i></li>
-             <li>optimized browser randering speed</li>
-             <li>Integrate css with D3 and use javascript to manipulate html and css</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/d3_cars_bubble_v4">https://github.com/BrifanBelly/d3_cars_bubble_v4/</a>'
-  },
-  'buro': {
-    'imageUrl': 'img/buro.jpg',
-    'title': 'Lawyer\'s Bureau | Webpage for law consulting',
-    'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>bootstrap 3</span><span>Github Pages</span><span>Jquery</span><span>Webpack</span><span>Google Analytics</span><span>PhP</span>',
-    'url': 'URL: <a href="hhttps://brifanbelly.github.io/lawyers-beauro/" target="_blank">https://brifanbelly.github.io/lawyers-beauro/</a>',
-    'about': `<h3>About</h3><i>A Website for lawyer bureau.
-    It allows customers to view current, pending and completed work, check for availability and book a spot, also there is a contact form. 
-    </p><p>Major part of the work done was in prototyping and the design was changed several times. There was also some PhP involved. 
-    It also has a mail service which sends back messages to the respective authority.<i>`,
-
-    'work': `<li>Wrote code in php for front end templating and managing sessions</li>
-             <li><i>Convert design into templates</i></li>
-             <li>solving issues with webpack configuration due to different versions of npm packages</li>
-             <li><i>various css Animations and effects</i></li>
-             <li>Html forms with validation</li>
-             <li>used AJAX to load dynamic data</li>`,
-    'source': '<a href="https://github.com/BrifanBelly/lawyers-beauro">https://github.com/BrifanBelly/lawyers-beauro</a>'
+    'source': '<a href="https://github.com/fbrian0707/e-shop">https://github.com/fbrian0707/e-shop</a>'
   }
 
 
