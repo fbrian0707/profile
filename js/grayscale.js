@@ -94,14 +94,14 @@ var projects = {
   'shop':{
     'imageUrl': 'img/o-shop.jpg',
     'title': 'Online Shopping',
-    'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>Angular 4</span><span>Firebase</span><span>Angular Material</span><span>JWT token</span>',
+    'langs': '<span>HTML</span><span>CSS</span><span>JS</span><span>Angular 7</span><span>Firebase</span><span>Angular Material</span><span>JWT token</span>',
     'url': 'URL: <a href="https://oshop-2d115.firebaseapp.com/" target="_blank">https://oshop-2d115.firebaseapp.com/</a>',
-    'about': `<h3>About</h3><i>An <b>Angular</b> 4 e-commerce application for small grocery stores.
+    'about': `<h3>About</h3><i>An <b>Angular</b> 7 e-commerce application for small grocery stores.
               Users can check various grocery products, add them to a <b>cart</b>, and buy items.
               There is also a separate admin panel for admins where admin can edit products, create new products,and assign roles to other users.</p>
                <p>it uses <b>firebase</b> for backend services like database connection, backend scripts and for hosting. 
              Angular is a great framework and it works very well with firebase<i>`,
-    'work': `<li>Made use of <b>firebase</b> in the Backend and  angular 4 in the frontend</b></li>
+    'work': `<li>Made use of <b>firebase</b> in the Backend and  angular 7 in the frontend</b></li>
              <li><i>Created services, directives, <b>domain driven</b> forms, validation, route gaurds</i></li>
              <li>Created Authentication system, seperated used according to admin and user roles</li>
              <li><i>used <b>Bearer token</b> Authentication</i></li>
